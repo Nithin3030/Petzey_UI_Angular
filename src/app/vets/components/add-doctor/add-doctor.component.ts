@@ -5,8 +5,8 @@ import { vetDetails } from '../../models/vet-details';
 import { AddVetService } from '../../services/add-vet.service';
 
 @Component({
-  selector: 'app-add-doctor',
-  templateUrl: './add-doctor.component.html',
+  selector: '/add-doctor',
+  templateUrl: '.add-doctor.component.html',
   styleUrls: ['./add-doctor.component.css']
 })
 export class AddDoctorComponent implements OnInit {

@@ -6,7 +6,7 @@ import { RouterTestingModule } from '@angular/router/testing';
 import { AddVetService } from '../../services/add-vet.service';
 import { By } from '@angular/platform-browser';
 
-describe('AddDoctorComponent', () => {
+describe('AddDoctorComponent', () => {DragEvent
   let component: AddDoctorComponent;
   let fixture: ComponentFixture<AddDoctorComponent>;
 
